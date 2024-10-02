@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitturikarthik" alt="chitturikarthik" /></a> </p>
 
-- 🔭 I’m currently working on [Web Analytics Dashboard](http://dbtcmi.rf.gd/admin)
+- 🔭 I’m currently working on [Web Analytics Dashboard for University of Hyderabad (PIN:2024)](http://dbtcmi.rf.gd/admin)
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
 
