@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [Web Analytics Dashboard for University of Hyderabad (PIN:2024)](http://dbtcmi.rf.gd/admin)
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
-
-- 👯 I’m looking to collaborate on **Frontend , Full-Stack , Python related projects**
+- 🌱 I’m currently learning **Salesforce Adminstration and Development**
 
 - 👨‍💻 All of my projects are available at [https://ch-gold.vercel.app](https://ch-gold.vercel.app)
 
